@@ -5,8 +5,10 @@
 <img src="https://komarev.com/ghpvc/?username=fastuptime&style=for-the-badge" alt="profile-views" /> 
 </center>
 <h3 align="left">Hakkımda:</h3>
-- 🔭 <a href="https://fastuptime.com/">FastUptime'ın</a> ve <a href="https://speedsmm.com/">SpeedSMM'in</a>  Sahibiyim
-- 🌱 Şuanda c# ile bir masaüstü projesi geliştiriyorum
-- 📫 E-posta **fastuptime@gmail.com**
+- 🔭 <a href="https://fastuptime.com/">FastUptime'ın</a> ve <a href="https://speedsmm.com/">SpeedSMM'in</a>  Sahibiyim<br>
+
+- 🌱 Şuanda c# ile bir masaüstü projesi geliştiriyorum <br>
+
+- 📫 E-posta **fastuptime@gmail.com**<br>
 
 <h3 align="left">Discord: ☆ Can#8830</h3>
