@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Selam 👋, Ben Can</h1>
 
-<!--
-**fastuptime/fastuptime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Türkiye'de Hayatta Kalmaya Çalışan Bir Backend Geliştiricisi </h3>
+<center>
+<img src="https://komarev.com/ghpvc/?username=fastuptime&style=for-the-badge" alt="profile-views" /> 
+</center>
+<h3 align="left">Hakkımda & Iletişim:</h3>
 
-Here are some ideas to get you started:
+- 🔭<a href="https://fastuptime.com/">FastUptime'ın</a>, <a href="https://linkclk.com/">LinkClk'nin</a> ve <a href="https://speedsmm.com/">SpeedSMM'in</a>  Sahibiyim<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱Şu Anda Electron ile bir masaüstü projesi geliştiriyorum <br>
+
+- 📫 E-posta **fastuptime@gmail.com**<br>
+
+- 📣 <a href="https://www.youtube.com/channel/UCOBPKI0p2_zpJHydUBu99hg">YouTube Kanalım</a>
+
+- 💻 Discord: ☆ Can#8830
