@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/20887992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20887992" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fastuptime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fastuptime" height="30" width="40" /></a>
 <a href="https://instagram.com/by.can.i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.can.i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fastuptime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fastuptime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" /></a>
 <a href="https://discord.gg/65exWz2dQ6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="65exWz2dQ6" height="30" width="40" /></a>
 </p>
 
