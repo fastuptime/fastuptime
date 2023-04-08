@@ -34,9 +34,15 @@
 
 <h3 align="left">Spotify:</h3>
 
+<p align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&redirect=true)
+  
+</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fastuptime"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
 
+<p align="center"><a href="https://www.buymeacoffee.com/fastuptime"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
+
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" /> </p>
