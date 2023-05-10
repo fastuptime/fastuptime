@@ -51,8 +51,5 @@
 
 <p><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
 
-<h3 align="left">😂 Random Dev Meme</h3>
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" /> </p>
