@@ -54,3 +54,4 @@
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" /> </p>
+<h3 align="center">All rights reserved</h3>
