@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
 
 - 🔭 I’m currently working on [SpeedSMM](https://speedsmm.com/)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fastuptime?tab=repositories](https://github.com/fastuptime?tab=repositories)
 
-- 💬 Ask me about **NodeJs, C#, MongoDB**
+- 💬 Ask me about **NodeJs, C#, MongoDB, MySql, Python, Php, Postman**
 
 - 📫 How to reach me **fastuptime@gmail.com**
 
