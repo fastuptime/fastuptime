@@ -48,6 +48,10 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&redirect=true)
 
+<h3 align="left">200$ free credit for 60 days.</h3>
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6f3ae13f128d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <h3 align="left">🫶 Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
