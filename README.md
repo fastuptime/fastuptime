@@ -66,45 +66,54 @@
 
 ---
 
-<h3 align="left">👨‍💻 Github Stats:</h3>
+<h3 align="center">👨‍💻 Github Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=fastuptime&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-
-![](https://github-profile-trophy.vercel.app/?username=fastuptime&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fastuptime&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&amp;theme=dark&amp;hide_border=false" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+</p>
 
 ---
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=fastuptime&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<h3 align="left">🎶Spotify:</h3>
-
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&redirect=true)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fastuptime&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="">
+</p>
 
 ---
 
-<h3 align="left">200$ free credit for 60 days.</h3>
+<h3 align="center">🔝 Top Contributed Repo</h3>
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=6f3ae13f128d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
----
-
-<h3 align="left">🫶 Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=fastuptime&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="">
+</p>
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" /> </p>
-<h3 align="center">All rights reserved</h3>
+<h3 align="center">🎶Spotify</h3>
+
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false" alt="spotify-github-profile"></a>
+</p>
+
+---
+
+<h3 align="center">200$ free credit for 60 days.</h3>
+
+<p align="center">
+<a href="https://www.digitalocean.com/?refcode=6f3ae13f128d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+<img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg"></img>
+</a>
+</p>
+
+
+<h3 align="center">🫶 Support</h3>
+
+<p align="center"><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
+
+---
+<h3 align="center">
+All rights reserved 
+</h3>
