@@ -100,6 +100,13 @@
 
 ---
 
+<h3 align="center">🫶 Support</h3>
+
+<p align="center"><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
+
+---
+
+
 <h3 align="center">200$ free credit for 60 days.</h3>
 
 <p align="center">
@@ -108,12 +115,6 @@
 </a>
 </p>
 
-
-<h3 align="center">🫶 Support</h3>
-
-<p align="center"><a href="https://www.buymeacoffee.com/fastuptime"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fastuptime" /></a><a href="https://ko-fi.com/fastuptime"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fastuptime" /></a></p><br><br>
-
----
 <h3 align="center">
 All rights reserved 
 </h3>
