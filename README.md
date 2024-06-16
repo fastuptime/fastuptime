@@ -69,9 +69,9 @@
 <h3 align="center">👨‍💻 Github Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fastuptime&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&amp;theme=dark&amp;hide_border=false" alt=""><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fastuptime&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br>
+<img src="https://github-readme-stats.vercel.app/api?username=fastuptime&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fastuptime&amp;theme=radical&amp;hide_border=false" alt="">
 </p>
 
 ---
@@ -87,7 +87,7 @@
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=fastuptime&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="">
+<img src="https://github-contributor-stats.vercel.app/api?username=fastuptime&amp;limit=5&amp;theme=radical&amp;combine_all_yearly_contributions=true" alt="">
 </p>
 
 ---
