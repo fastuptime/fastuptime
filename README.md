@@ -51,7 +51,7 @@
   <a href="https://www.youtube.com/@fastuptime" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/65exWz2dQ6" target="blank">
+  <a href="https://discord.gg/RVCs3gP6q8" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="65exWz2dQ6" height="30" width="40" />
   </a>
   <a href="https://www.r10.net/profil/156201-bycaner.html" target="blank">
