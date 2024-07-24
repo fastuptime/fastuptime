@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+![github-header-image (1)](https://github.com/user-attachments/assets/dd447a91-cab0-4522-826c-baa7c8777b7a)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fastuptime&label=Profile%20views&color=0e75b6&style=flat" alt="fastuptime" />
