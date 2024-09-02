@@ -21,8 +21,6 @@
 - **Php**
 - **Postman**
 
-### 📫 How to reach me: **fastuptime@gmail.com**
-
 ---
 
 <h3 align="left">📞 Connect with me:</h3>
