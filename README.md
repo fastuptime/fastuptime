@@ -93,7 +93,7 @@
 <h3 align="center">🎶Spotify</h3>
 
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=false" alt="spotify-github-profile"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=qgbw9tmglmdrl6yhktnx1x2bz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"></a>
 </p>
 
 ---
