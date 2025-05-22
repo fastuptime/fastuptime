@@ -7,7 +7,7 @@
 
 ---
 
-### 🔭 I’m currently working on [SpeedSMM](https://speedsmm.com/)
+### 🔭 I’m currently working on [QuickPanel](https://quickpanel.net/)
 ### 🌱 I’m currently learning **Frameworks**
 
 ### 👨‍💻 All of my projects are available on my [GitHub](https://github.com/fastuptime?tab=repositories)
