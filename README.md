@@ -46,7 +46,7 @@
   <a href="https://instagram.com/by.can.i" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.can.i" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@fastuptime" target="blank">
+  <a href="https://www.youtube.com/@quickpanelnet" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fastuptime" height="30" width="40" />
   </a>
   <a href="https://discord.gg/RVCs3gP6q8" target="blank">
