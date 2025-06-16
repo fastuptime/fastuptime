@@ -6,7 +6,7 @@
   ![GitHub followers](https://img.shields.io/github/followers/fastuptime?logo=github&style=for-the-badge&color=0e75b6)
   ![GitHub User's stars](https://img.shields.io/github/stars/fastuptime?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=0e75b6)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+FastUpTime;Full+Stack+Developer;SMM+Panel+Expert;Always+learning+new+things;Problem+Solver+%26+Code+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Can;Full+Stack+Developer;SMM+Panel+Expert;Always+learning+new+things;Problem+Solver+%26+Code+Enthusiast!" alt="Typing SVG" />
   
 </div>
 
